@@ -1,0 +1,9 @@
+projeto mobile steps
+
+
+1-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+2- install npm
+3-npm install expo-cli
+4-expo -h
+4- expo init mobile
+5- expo start
